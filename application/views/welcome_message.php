@@ -12,10 +12,10 @@
     <title>DanielSWilliams.com</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="<?=base_url('css/bootstrap.min.css')?>" rel="stylesheet">
+    <link href="<?=base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link href="<?=base_url('css/stylish-portfolio.css')?>" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
