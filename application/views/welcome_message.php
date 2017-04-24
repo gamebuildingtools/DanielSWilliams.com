@@ -15,10 +15,10 @@
     <link href="<?=base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="<?=base_url('css/stylish-portfolio.css')?>" rel="stylesheet">
+    <link href="<?=base_url('assets/css/stylish-portfolio.css')?>" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="<?=base_url('assets/font-awesome/css/font-awesome.min.css')?>" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -171,28 +171,28 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
+                                    <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-1.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
+                                    <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-2.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
+                                    <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-3.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+                                    <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-4.jpg')?>">
                                 </a>
                             </div>
                         </div>
