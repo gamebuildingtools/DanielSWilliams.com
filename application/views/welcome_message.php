@@ -98,7 +98,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h2>Our Services</h2>
+                    <h2>My Certifications and More About Me</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-3 col-sm-6">
@@ -108,10 +108,10 @@
                                 <i class="fa fa-cloud fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>W3Schools Certified</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>In 2014, I received certifications for HTML5 and PHP.</p>
+                                <a href="http://www.refsnesdata.no/certification/w3certified.asp?email=spoggles@gmail.com" class="btn btn-light">View Certifications</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -121,10 +121,10 @@
                                 <i class="fa fa-compass fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Continuing Education</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>I'm continuing my education through Lynda.com by learning design, SEO, and programming.</p>
+                                <a href="https://www.lynda.com/AllCertificates/User/4258222" class="btn btn-light">View Certifications</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -134,10 +134,10 @@
                                 <i class="fa fa-flask fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Learn By Doing</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>I learn by doing so I published tutorials about Corona SDK.</p>
+                                <a href="http://gamebuildingtools.com/category/corona-sdk" class="btn btn-light">Read Posts</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -147,10 +147,10 @@
                                 <i class="fa fa-shield fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>LinkedIn</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>Visit my LinkedIn profile to learn more about me.</p>
+                                <a href="https://www.linkedin.com/in/danswill/" class="btn btn-light">View LinkedIn Profile</a>
                             </div>
                         </div>
                     </div>
