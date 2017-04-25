@@ -61,10 +61,16 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Start Bootstrap</h1>
-            <h3>Free Bootstrap Themes &amp; Templates</h3>
+            <h1>Daniel S. Williams</h1>
+            <div class="container-fluid">
+              <div class="col-md-2"></div>
+              <div class="col-md-8 center-block">
+                <h3>Developer, blogger, husband and father. I am passionate about web tech, building casual 2D mobile game, improving user interfaces and digital marketing.<br><br>This is my corner of the web.</h3>
+              </div>
+              <div class="col-md-2"></div>
+            </div>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+            <a href="#about" class="btn btn-dark btn-lg">Learn More About Me</a>
         </div>
     </header>
 
@@ -73,8 +79,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-                    <p class="lead">This theme features some wonderful photography courtesy of <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+                    <h2>A Bit More About Daniel Williams</h2>
+                    <p class="lead">I am happily married to my beautiful wife, Rachel Williams, and I have two rambunctious children who are 3 years old and another one that is almost one. I currently live in the Indianapolis, Indiana area.</p>
+                    <p class="lead">After my time with the U.S. Army, I attended Ivy Tech Community College and received my degree in Web Management. With degree in hand, I started working for F.C. Tucker Company, Inc. in the digital marketing department. This job role allows me to focus on meeting the digital needs of our real estate agents. I have brought on tools that allow agents to create marketing materials for their listings and themselves. I’ve also helped handle search engine optimization, pay-per-click campaigns, social media efforts, and managed the direction of our online presence.</p>
+                    <p class="lead">I’ve continued my education by receiving several certifications from Lynda.com and W3Schools. The certifications I’ve received range from HTML/CSS topics to Design Thinking. I believe it’s important to know and understand different aspects of businesses.</p>
+                    <p class="lead">On a personal level, I’ve started my own LLC called Mind Magic Games and I’ve produced over 40+ 2D casual mobile games using Corona SDK <em>(I even wrote a book)</em>. I’ve also worked with recipe bloggers to publish recipe apps and even brought to life a calculator application for engineers. I feel my skillset is strong with HTML/CSS and I’m familiar with JavaScript, PHP, CodeIgniter, and Lua. </p>
+                    <p class="lead">You can learn more about me by emailing me at <a href="me@danielswilliams.com">me@DanielSWilliams.com</a>, visiting my <a href="https://www.linkedin.com/in/danswill/">LinkedIn profile</a>, taking a look at my <a href="https://github.com/gamebuildingtools">GitHub</a>, or browsing around my passion project at <a href="http://gamebuildingtools.com">GameBuildingTools.com</a>.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -222,10 +232,11 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d196237.09278169295!2d-86.27283369825204!3d39.7799641553182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50ffa7796a03%3A0xd68e9df640b9ea7c!2sIndianapolis%2C+IN!5e0!3m2!1sen!2sus!4v1493148969170"></iframe>
         <br />
+
         <small>
-            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
+            <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d196237.09278169295!2d-86.27283369825204!3d39.7799641553182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50ffa7796a03%3A0xd68e9df640b9ea7c!2sIndianapolis%2C+IN!5e0!3m2!1sen!2sus!4v1493148969170"></a>
         </small>
     </section>
 
@@ -234,13 +245,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Start Bootstrap</strong>
+                    <h4><strong>Built with CodeIgniter and Bootstrap</strong>
                     </h4>
-                    <p>3481 Melrose Place
-                        <br>Beverly Hills, CA 90210</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">name@example.com</a>
+                        <br>Indianapolis, IN</p>
+                        <ul class="list-unstyled">
+                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:me@danielswilliams.com">me@danielswilliams.com</a>
                         </li>
                     </ul>
                     <br>
@@ -256,7 +265,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                    <p class="text-muted">Copyright &copy; Daniel Williams <?=date('Y')?></p>
                 </div>
             </div>
         </div>

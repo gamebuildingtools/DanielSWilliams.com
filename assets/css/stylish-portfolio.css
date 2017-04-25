@@ -248,3 +248,11 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+/* Custom classes added by Daniel Williams */
+.center-block h3 {
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 6px;
+  padding: 15px;
+  color: white;
+}
