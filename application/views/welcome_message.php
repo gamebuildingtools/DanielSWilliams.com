@@ -111,7 +111,7 @@
                                     <strong>W3Schools Certified</strong>
                                 </h4>
                                 <p>In 2014, I received certifications for HTML5 and PHP.</p>
-                                <a href="http://www.refsnesdata.no/certification/w3certified.asp?email=spoggles@gmail.com" class="btn btn-light">View Certifications</a>
+                                <a href="hhttp://www.refsnesdata.no/certification/w3certified.asp?id=6050657" class="btn btn-light">View Certifications</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
