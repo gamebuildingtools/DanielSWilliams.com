@@ -175,40 +175,40 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
+                    <h2>A Sample of Some of My Work</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-item">
-                                <a href="#">
+                                <a href="https://itunes.apple.com/us/app/drizzle-me-skinny-healthy-ww-recipes/id982786999?mt=8">
                                     <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-1.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
-                                <a href="#">
+                                <a href="https://itunes.apple.com/us/app/what-the-rebus-a-word-game/id1086498603?mt=8">
                                     <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-2.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
-                                <a href="#">
+                                <a href="https://itunes.apple.com/us/app/asterion-tools-calculate-convert-volume-plating-surface/id562914006?mt=8">
                                     <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-3.jpg')?>">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
-                                <a href="#">
+                                <a href="http://www.packtpub.com/corona-software-development-kit-application-design/book">
                                     <img class="img-portfolio img-responsive" src="<?=base_url('assets/img/portfolio-4.jpg')?>">
                                 </a>
                             </div>
                         </div>
                     </div>
                     <!-- /.row (nested) -->
-                    <a href="#" class="btn btn-dark">View More Items</a>
+                    <!--<a href="#" class="btn btn-dark">View More Items</a>-->
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
