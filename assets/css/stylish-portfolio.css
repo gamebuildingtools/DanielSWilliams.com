@@ -250,10 +250,16 @@ footer {
   right: 5px;
 }
 
-/* Custom classes added by Daniel Williams */
-.center-block h3 {
+/* Custom classes added by Daniel S Williams */
+.center-block{
   background-color: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 15px;
   color: white;
+  margin-top: 10em;
+  font-size: 140%;
+}
+
+.center-block strong {
+  font-size: 155%;
 }

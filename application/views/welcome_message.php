@@ -80,16 +80,16 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Daniel S. Williams</h1>
             <div class="container-fluid">
               <div class="col-md-2"></div>
               <div class="col-md-8 center-block">
-                <h3>Developer, blogger, husband and father. I am passionate about web tech, building casual 2D mobile game, improving user interfaces and digital marketing.<br><br>This is my corner of the web.</h3>
+                <p><strong>Daniel S. Williams</strong></p>
+                <p>Developer, blogger, husband and father. I am passionate about web tech, building casual 2D mobile game, improving user interfaces and digital marketing. This is my corner of the web.</p>
               </div>
               <div class="col-md-2"></div>
             </div>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Learn More About Me</a>
+            <a href="#about" class="btn btn-info btn-lg">Learn More About Me</a>
         </div>
     </header>
 
