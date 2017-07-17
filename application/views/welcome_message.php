@@ -264,7 +264,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Built with CodeIgniter and Bootstrap</strong>
+                    <h4><strong>Built with CodeIgniter+Bootstrap and hosted with love at <a href="http://cloudways.com">Cloudways</a></strong>
                     </h4>
                         <br>Indianapolis, IN</p>
                         <ul class="list-unstyled">
